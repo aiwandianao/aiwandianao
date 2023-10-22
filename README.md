@@ -3,7 +3,7 @@
   <!-- dynamic typing effect 动态打字效果 -->
   <div align="center">
     <a href="https://blog.sunguoqi.com/">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=System.out.println("你好！!")&center=true&size=27" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=你好&center=true&size=27" alt="Typing SVG" />
     </a>
   </div>
 
@@ -12,18 +12,13 @@
 
   <!-- profile logo 个人资料徽标 -->
   <div align="center">
-    <a href="https://blog.sunguoqi.com/"><img src="https://img.shields.io/badge/Website-博客-blue" /></a>&emsp;
-    <a href="https://twitter.com/aiwandianao/"><img src="https://img.shields.io/badge/Twitter-推特-blue" /></a>&emsp;
-    <a href="https://www.youtube.com/@aiwandianao"><img src="https://img.shields.io/badge/YouTube-油管-c32136" /></a>&emsp;
-    <a href="https://box.sunguoqi.com/weixin_mp"><img src="https://img.shields.io/badge/WeChat-微信-07c160" /></a>&emsp;
-    <a href="https://space.bilibili.com/448488855/"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
-    <a href="https://blog.csdn.net/weixin_50915462/"><img src="https://img.shields.io/badge/CSDN-论坛-c32136" /></a>&emsp;
-    <a href="https://www.zhihu.com/people/sunguoqi/"><img src="https://img.shields.io/badge/Zhihu-知乎-blue" /></a>&emsp;
+    <a href="https://blog.sunguoqi.com/"><img src="https://blog.csdn.net/aiwandianao" /></a>&emsp;
     <!-- visitor statistics logo 访问量统计徽标 -->
     <img src="https://komarev.com/ghpvc/?username=aiwandianao&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
   </div>
 
 <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/aiwandianao/aiwandianao/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/aiwandianao/aiwandianao/profile-snake-contrib/github-contribution-grid-snake.svg" />
@@ -42,8 +37,8 @@
 
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/aiwandianao/aiwandianao/assets/images/steven.png" />
 
-<p>&emsp;&emsp;大家好，我是小孙同学。</p>
-<p>&emsp;&emsp;热爱编程、摄影、读书、旅行。</p>
+<p>&emsp;&emsp;大家好，我是60分。</p>
+<p>&emsp;&emsp;热爱编程、跑步、读书、旅行。</p>
 <p>&emsp;&emsp;热爱计算机科学和IT互联网事业，励志成为一名优秀的开发者。</p>
 <p>&emsp;&emsp;我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系。</p>
 <p><strong>&emsp;&emsp;We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
@@ -56,17 +51,12 @@
 
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/aiwandianao/aiwandianao/assets/images/tuhui.png" />
 
-- [广州图慧信息科技有限公司](https://www.tuhuimap.com/) &emsp; 📌 2023-06-19 —— Now
+- [南京途牛旅游网](https://www.tuniu.com/) &emsp; 📌 2023-07-11 —— 2023-09-26
   
-  - 工作岗位：Web前端开发工程师（初级）
-  - 工作内容：GIS相关
+  - 工作岗位：软件开发工程师（实习）
+  - 工作内容：机票部门
 
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/aiwandianao/aiwandianao/assets/images/nio.png" />
 
-- [蔚来汽车科技（安徽）有限公司](https://www.nio.cn/) &emsp; 📌 2023-02-20 —— 2023-05-12
-  
-  - 工作岗位：Web前端开发实习生
-  - 工作内容：参与一站式数据治理与研发平台 DataSight 的开发与维护工作
 
 </td>
 </tr>
@@ -76,31 +66,15 @@
 <!-- 近期博客 -->
 ### 📃 Recent Blog
 
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/aiwandianao/aiwandianao/assets/images/astronaut.png" />
-
-<!-- START_SECTION:blog -->
-* <a href='https://blog.sunguoqi.com/archives/ohmyposh' target='_blank'>Oh My Posh | Windows Terminal 美化指南</a> - 2023-07-15
-* <a href='https://blog.sunguoqi.com/archives/brain' target='_blank'>小孙同学 の 第二大脑正在施工中 。。。</a> - 2023-03-26
-* <a href='https://blog.sunguoqi.com/archives/20230225' target='_blank'>奔跑在自己的时区里，你好哇，我的22岁！</a> - 2023-02-25
-* <a href='https://blog.sunguoqi.com/archives/github_profile_0' target='_blank'>让面试官眼前一亮，手把手带你打造个性化的 GitHub 首页</a> - 2023-01-30
-* <a href='https://blog.sunguoqi.com/archives/chatgpt' target='_blank'>快速上手，教你如何将 ChatGPT 接入到微信公众号</a> - 2023-01-29
-<!-- END_SECTION:blog -->
-
-</td></tr>
-
-<tr><td>
-
-### 🧠 Second Brain
-
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/aiwandianao/aiwandianao/assets/images/technologist.png" />
 
-<!-- START_SECTION:brain -->
-* <a href='https://brain.sunguoqi.com/ai/basic/test.html' target='_blank'>前言</a> - 2023-09-28
-* <a href='https://brain.sunguoqi.com/dv/foreword/about.html' target='_blank'>我与数据可视化</a> - 2023-09-28
-* <a href='https://brain.sunguoqi.com/en/advanced-guide/test.html' target='_blank'>前言</a> - 2023-09-28
-* <a href='https://brain.sunguoqi.com/en/basic/test.html' target='_blank'>前言</a> - 2023-09-28
-* <a href='https://brain.sunguoqi.com/en/programmer-english/test.html' target='_blank'>前言</a> - 2023-09-28
-<!-- END_SECTION:brain -->
+<!-- START_SECTION:blog -->
+* [那些年面试官让我课下学习的知识点](https://blog.csdn.net/aiwandianao/article/details/133754906?spm=1001.2014.3001.5502)- 2023-07-15
+* <a href='https://blog.sunguoqi.com/archives/brain' target='_blank'>[十分钟掌握uml符号！把类图画给面试官看](https://blog.csdn.net/aiwandianao/article/details/133721364?spm=1001.2014.3001.5502)</a> - 2023-03-26
+* [【精选】2022CCF BDCI 大数据平台安全事件检测与分类识别 复盘](https://blog.csdn.net/aiwandianao/article/details/127297226?spm=1001.2014.3001.5502)
+* [【精选】【做一下1】python 监听数据库变化_python监听数据库](https://blog.csdn.net/aiwandianao/article/details/125554667?spm=1001.2014.3001.5502)
+* <a href='https://blog.sunguoqi.com/archives/20230225' target='_blank'>
+  <!-- END_SECTION:blog -->
 
 </td></tr>
 
@@ -112,17 +86,15 @@
 
 <!-- START_SECTION:douban -->
 * <a href='https://book.douban.com/subject/35193035/' target='_blank'>最近在读认知觉醒</a> 🌟🌟🌟🌟🌟 力荐- 2023-04-17
-* <a href='http://movie.douban.com/subject/1292052/' target='_blank'>看过肖申克的救赎</a> 🌟🌟🌟🌟🌟 力荐- 2023-02-07
-* <a href='http://movie.douban.com/subject/1292365/' target='_blank'>看过活着</a> 🌟🌟🌟🌟🌟 力荐- 2023-02-07
-* <a href='https://music.douban.com/subject/26567580/' target='_blank'>听过假如爱有天意</a> 🌟🌟🌟🌟🌟 力荐- 2023-02-07
-* <a href='http://movie.douban.com/subject/35465232/' target='_blank'>在看狂飙</a> 🌟🌟🌟🌟🌟 力荐- 2023-02-07
-<!-- END_SECTION:douban -->
+* <a href='http://movie.douban.com/subject/1292052/' target='_blank'>
+  <!-- END_SECTION:douban -->
 
 </td></tr>
 
 <tr><td>
 
 <!-- wakatime 统计 -->
+
 ### 📊 WakaTime
 
 <picture>
@@ -198,25 +170,33 @@ Mac                      1 hr 58 mins        ████░░░░░░░�
 
 ```mermaid
 mindmap
-  root((小孙同学))
+  root((60分))
     编程
-      Web开发
-      网络爬虫
+      Java开发
       人工智能
     摄影
       风光
     旅行
-      广州
-      苏州
+      北京
+      莫斯科
+      徐州
       南京
-      滁州
-      合肥
-      寿县
+      苏州
+      乌鲁木齐
+      杭州
+      上海
+      丽水
+      温州
+      洛阳
+      郑州
+      
     阅读
+      计算机技术
       人物传记
       个人成长
       社会文化
-      计算机技术
+      玄幻修真
+      
 ```
 
 <!-- just img 图片 -->
@@ -252,7 +232,7 @@ mindmap
 
 🧰 常用的工具
 
-![Xiaomi Badge](https://img.shields.io/badge/Xiaomi-FF6900?logo=xiaomi&logoColor=fff&style=flat)
+![Xiaomi Badge](https://img.shields.io/badge/huawei-FF6900?logo=huawei&logoColor=fff&style=flat)
 ![Linux Badge](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=flat)
 ![Lenovo Badge](https://img.shields.io/badge/Lenovo-E2231A?logo=lenovo&logoColor=fff&style=flat)
 ![Windows Badge](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=fff&style=flat)
@@ -265,30 +245,19 @@ mindmap
 <img src="https://skillicons.dev/icons?i=ps,ai,pr,c,cpp,cs,ts,discord,twitter,mongodb,instagram,idea,git" /><br>
 
 <!-- svg -->
-<img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
-<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
 <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
 <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" />
 <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" /> 
-<img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" />
 <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" />
-<img src="https://techstack-generator.vercel.app/eslint-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" />
 <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
-<img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
 <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" /><br>
 
 <!-- gif -->
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/aiwandianao/aiwandianao/assets/images/html.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/aiwandianao/aiwandianao/assets/images/cssgif.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/aiwandianao/aiwandianao/assets/images/vscode.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/aiwandianao/aiwandianao/assets/images/react.webp">
 <img height="95" width="95" src="https://cdn.jsdelivr.net/gh/aiwandianao/aiwandianao/assets/images/vue.webp">
 <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/aiwandianao/aiwandianao/assets/images/python.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/aiwandianao/aiwandianao/assets/images/js.webp">
 <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/aiwandianao/aiwandianao/assets/images/github.webp">
 
-<!-- just img 图片 -->
-<img src="https://cdn.jsdelivr.net/gh/aiwandianao/aiwandianao/assets/images/icon.png" /></div>
+</div>
 
 <!-- profile-3d-contrib 3D贡献图-->
 <img src="https://cdn.jsdelivr.net/gh/aiwandianao/aiwandianao/profile-3d-contrib/profile-night-rainbow.svg" />
@@ -299,8 +268,7 @@ mindmap
 
 <div align="center" >
 
-<!-- Github-Stats-Terminal 终端风格信息 -->
-<img src="https://cdn.jsdelivr.net/gh/aiwandianao/Github-Stats-Terminal/github_stats.svg"/><br>
+
 
 <!-- Quotes 名人名言 -->
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" /><br>
@@ -312,11 +280,7 @@ mindmap
 <img align="" height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=aiwandianao&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
 <img align="" height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=aiwandianao&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /><br><br>
 
-<!-- Awesome repo 比较好的仓库-->
-<a href="https://github.com/aiwandianao/Awesome-Love-Code">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=aiwandianao&repo=Awesome-Love-Code&theme=dark&bg_color=121212&hide_border=true" /></a>
-<a href="https://github.com/aiwandianao/Student-Data-Vision">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=aiwandianao&repo=Student-Data-Vision&theme=dark&bg_color=121212&hide_border=true" /></a><br><br>
+
 
 <!-- Wakatime Graph-->
 <table>
@@ -339,6 +303,7 @@ mindmap
 <img src="https://cdn.jsdelivr.net/gh/aiwandianao/aiwandianao/assets/images/man_run.png" alt="Man Running" width="250" height="250" />
 
 <!-- Joke 笑话 -->
+
 <div><img src="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%23121212" alt="Jokes Card" /></div>
 <!-- github-readme-streak-stats 连续提交代码天数记录 -->
 <img width="150" src="https://cdn.jsdelivr.net/gh/aiwandianao/aiwandianao/assets/images/left.png" />&emsp;
@@ -347,7 +312,7 @@ mindmap
 
 <!-- metrics 基础资料 -->
 <img width="150" src="https://cdn.jsdelivr.net/gh/aiwandianao/aiwandianao/assets/images/cxyduck.gif" />&emsp;
-<img src="https://cdn.jsdelivr.net/gh/aiwandianao/aiwandianao/github-metrics/base.svg" />
+
 &emsp;<img width="150" src="https://cdn.jsdelivr.net/gh/aiwandianao/aiwandianao/assets/images/cxyduck.gif" />
 
 <!-- GitHub Activity Graph GitHub 活动图 -->
@@ -358,52 +323,6 @@ mindmap
 </table>
 
 </div>
-
-<!-- ########################################## 分割 ########################################## -->
-<img width="200%" src="https://cdn.jsdelivr.net/gh/aiwandianao/aiwandianao/assets/images/hr.gif" />
-
-<!-- GitHub metrics 信息指标 -->
-<div align="center">
-
-<!-- just img 图片 -->
-<img width="36%" src="https://cdn.jsdelivr.net/gh/aiwandianao/aiwandianao/assets/images/githubgif.gif" />
-
-<!-- first form 第一个表格 -->
-<table>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/aiwandianao/aiwandianao/github-metrics/people.followers.svg" alt="people.followers" /></td>
-  </tr>
-</table>
-
-<!-- second form 第二个表格 -->
-<table>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/aiwandianao/aiwandianao/github-metrics/languages.indepth.svg" alt="languages.indepth" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/aiwandianao/aiwandianao/github-metrics/reactions.svg" alt="reactions" /></td>
-  </tr>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/aiwandianao/aiwandianao/github-metrics/followup.indepth.svg" alt="followup.indepth" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/aiwandianao/aiwandianao/github-metrics/repositories.pinned.svg" alt="repositories.pinned" /></td>
-  </tr>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/aiwandianao/aiwandianao/github-metrics/wakatime.svg" alt="wakatime" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/aiwandianao/aiwandianao/github-metrics/habits.charts.svg" alt="habits.charts" /></td>
-  </tr>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/aiwandianao/aiwandianao/github-metrics/isocalendar.fullyear.svg" alt="isocalendar.fullyear" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/aiwandianao/aiwandianao/github-metrics/calendar.full.svg" alt="calendar.full" /></td>
-  </tr>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/aiwandianao/aiwandianao/github-metrics/activity.svg" alt="activity" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/aiwandianao/aiwandianao/github-metrics/stackoverflow.svg" alt="stackoverflow" /></td>
-  </tr>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/aiwandianao/aiwandianao/github-metrics/stars.svg" alt="stars" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/aiwandianao/aiwandianao/github-metrics/stargazers.chartist.svg" alt="stargazers.chartist" /></td>
-  </tr>
-</table>
-
-<img width="120%" src="https://repobeats.axiom.co/api/embed/dd42bad8effa7ab44d2f3124414ee110611e044a.svg" />
 
 <!-- just img 图片 -->
 <img src="https://cdn.jsdelivr.net/gh/aiwandianao/aiwandianao/assets/images/rocket.png"/>
