@@ -12,7 +12,6 @@
 
   <!-- profile logo 个人资料徽标 -->
   <div align="center">
-    <a href="https://blog.sunguoqi.com/"><img src="https://blog.csdn.net/aiwandianao" /></a>&emsp;
     <!-- visitor statistics logo 访问量统计徽标 -->
     <img src="https://komarev.com/ghpvc/?username=aiwandianao&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
   </div>
@@ -29,9 +28,6 @@
 
 #  🙋 Hello
 
-<table>
-<tr><td>
-
 <!-- About me 关于我 -->
 ### 🤺 About Me
 
@@ -44,10 +40,9 @@
 <p><strong>&emsp;&emsp;We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
 </td></tr>
 
-<tr>
-<td>
 
-### 🏢 Work Experience
+
+###  🏢 Work Experience
 
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/aiwandianao/aiwandianao/assets/images/tuniu.png" />
 
@@ -61,7 +56,7 @@
 </td>
 </tr>
 
-<tr><td>
+
 
 <!-- 近期博客 -->
 ### 📃 Recent Blog
@@ -77,7 +72,7 @@
 
 </td></tr>
 
-<tr><td>
+
 
 ### 🤾‍♂️ Funny Soul
 
