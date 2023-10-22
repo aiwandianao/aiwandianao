@@ -256,18 +256,9 @@ mindmap
 <!-- run 图片 -->
 <img src="https://cdn.jsdelivr.net/gh/aiwandianao/aiwandianao/assets/images/man_run.png" alt="Man Running" width="250" height="250" />
 
-<!-- Joke 笑话 -->
 
-<div><img src="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%23121212" alt="Jokes Card" /></div>
-<!-- github-readme-streak-stats 连续提交代码天数记录 -->
-<img width="150" src="https://cdn.jsdelivr.net/gh/aiwandianao/aiwandianao/assets/images/left.png" />&emsp;
+
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aiwandianao&theme=dark&hide_border=true" />
-&emsp;<img width="150" src="https://cdn.jsdelivr.net/gh/aiwandianao/aiwandianao/assets/images/right.png" />
-
-<!-- metrics 基础资料 -->
-<img width="150" src="https://cdn.jsdelivr.net/gh/aiwandianao/aiwandianao/assets/images/cxyduck.gif" />&emsp;
-
-&emsp;<img width="150" src="https://cdn.jsdelivr.net/gh/aiwandianao/aiwandianao/assets/images/cxyduck.gif" />
 
 <!-- GitHub Activity Graph GitHub 活动图 -->
 <table align="center">
