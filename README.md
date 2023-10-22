@@ -1,6 +1,7 @@
 <div align="center">
 
   <!-- dynamic typing effect 动态打字效果 -->
+
   <div align="center">
     <a href="https://blog.sunguoqi.com/">
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=你好&center=true&size=27" alt="Typing SVG" />
@@ -11,6 +12,7 @@
   <img src="https://cdn.jsdelivr.net/gh/aiwandianao/aiwandianao/assets/images/coding.gif" /><br>
 
   <!-- profile logo 个人资料徽标 -->
+
   <div align="center">
     <!-- visitor statistics logo 访问量统计徽标 -->
     <img src="https://komarev.com/ghpvc/?username=aiwandianao&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
@@ -26,9 +28,10 @@
 
 </div>
 
-#  🙋 Hello
+# 🙋 Hello
 
 <!-- About me 关于我 -->
+
 ### 🤺 About Me
 
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/aiwandianao/aiwandianao/assets/images/steven.png" />
@@ -38,16 +41,16 @@
 <p>&emsp;&emsp;热爱计算机科学和IT互联网事业，励志成为一名优秀的开发者。</p>
 <p>&emsp;&emsp;我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系。</p>
 <p><strong>&emsp;&emsp;We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
+
 </td></tr>
 
 
 
-###  🏢 Work Experience
+### 🏢 Work Experience
 
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/aiwandianao/aiwandianao/assets/images/tuniu.png" />
 
 - [南京途牛旅游网](https://www.tuniu.com/) &emsp; 📌 2023-07-11 —— 2023-09-26
-  
   - 工作岗位：软件开发工程师（实习）
   - 工作内容：机票部门
 
@@ -58,36 +61,7 @@
 
 
 
-<!-- 近期博客 -->
-### 📃 Recent Blog
 
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/aiwandianao/aiwandianao/assets/images/technologist.png" />
-
-<!-- START_SECTION:blog -->
-* <a href='https://blog.sunguoqi.com/archives/ohmyposh' target='_blank'>Oh My Posh | Windows Terminal 美化指南</a> - 2023-07-15
-* <a href='https://blog.sunguoqi.com/archives/brain' target='_blank'>小孙同学 の 第二大脑正在施工中 。。。</a> - 2023-03-26
-* <a href='https://blog.sunguoqi.com/archives/20230225' target='_blank'>奔跑在自己的时区里，你好哇，我的22岁！</a> - 2023-02-25
-* <a href='https://blog.sunguoqi.com/archives/github_profile_0' target='_blank'>让面试官眼前一亮，手把手带你打造个性化的 GitHub 首页</a> - 2023-01-30
-* <a href='https://blog.sunguoqi.com/archives/chatgpt' target='_blank'>快速上手，教你如何将 ChatGPT 接入到微信公众号</a> - 2023-01-29
-<!-- END_SECTION:blog -->
-
-</td></tr>
-
-
-
-### 🤾‍♂️ Funny Soul
-
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/aiwandianao/aiwandianao/assets/images/artist.png" />
-
-<!-- START_SECTION:douban -->
-* <a href='https://book.douban.com/subject/35193035/' target='_blank'>最近在读认知觉醒</a> 🌟🌟🌟🌟🌟 力荐- 2023-04-17
-* <a href='http://movie.douban.com/subject/1292052/' target='_blank'>看过肖申克的救赎</a> 🌟🌟🌟🌟🌟 力荐- 2023-02-07
-* <a href='http://movie.douban.com/subject/1292365/' target='_blank'>看过活着</a> 🌟🌟🌟🌟🌟 力荐- 2023-02-07
-* <a href='https://music.douban.com/subject/26567580/' target='_blank'>听过假如爱有天意</a> 🌟🌟🌟🌟🌟 力荐- 2023-02-07
-* <a href='http://movie.douban.com/subject/35465232/' target='_blank'>在看狂飙</a> 🌟🌟🌟🌟🌟 力荐- 2023-02-07
-<!-- END_SECTION:douban -->
-
-</td></tr>
 
 <tr><td>
 
@@ -104,6 +78,7 @@
 🌃 Evening                553 commits         ████████░░░░░░░░░░░░░░░░░   31.30 % 
 🌙 Night                  271 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.34 % 
 ```
+
 📅 **I'm Most Productive on Friday** 
 
 ```text
@@ -115,7 +90,6 @@ Friday                   486 commits         ███████░░░░�
 Saturday                 163 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.22 % 
 Sunday                   247 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.98 % 
 ```
-
 
 📊 **This Week I Spent My Time On** 
 
@@ -137,7 +111,6 @@ Obsidian                 5 hrs 38 mins       ███████████�
 Windows                  11 hrs 7 mins       █████████████████████░░░░   84.97 % 
 Mac                      1 hr 58 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.03 % 
 ```
-
 
  Last Updated on 22/10/2023 01:17:37 UTC
 <!--END_SECTION:waka-->
@@ -180,7 +153,6 @@ mindmap
 
 <!-- just img 图片 -->
 <img src="https://cdn.jsdelivr.net/gh/aiwandianao/aiwandianao/assets/images/man.png" alt="Man Lifting Weights" width="250" height="250" />
-
 
 <!-- programming tool icon 编程工具图标 -->
 <img src="https://skillicons.dev/icons?i=idea,git,postman,maven,spring,redis,rabbitmq,mysql,mongodb,nginx,tensorflow,pytorch,python,matlab,cpp" /><br>
@@ -245,6 +217,7 @@ mindmap
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aiwandianao&theme=dark&hide_border=true" />
 
 <!-- GitHub Activity Graph GitHub 活动图 -->
+
 <table align="center">
   <tr>
     <td><img src="https://github-readme-activity-graph.vercel.app/graph?username=aiwandianao&theme=xcode&bg_color=FF000000&hide_border=true" alt="Activity"/></td>
