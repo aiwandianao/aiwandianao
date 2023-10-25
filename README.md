@@ -37,18 +37,13 @@
 <p align="center"> 5+年技术博主，CSDN笔耕不辍、云计算初级工程师…… </p>  
 <p align="center"> Java开发，也掌握Python相关技术栈  </p>  
 <p align="center"> 擅长Java、Lniux、Redis，对操作系统、网络......也有涉猎</p>  
-
 </td></tr>
 
 
 
 ### 开源项目  
 
-- [eng-practices-cn](https://github.com/xindoo/eng-practices-cn)谷歌工程实践中文版	
-- [regex](https://github.com/xindoo/regex)Java实现的正则引擎表达式	
-- [redis](https://github.com/xindoo/redis) Redis中文注解版  
-- [slowjson](https://github.com/xindoo/slowjson) 用antlr实现的json解析器  
-- [leetcode](https://github.com/xindoo/leetcode) 我的Leetcode题解   
+- [github profile]([aiwandianao/aiwandianao: sun0225SUN's profile with 0 stars and 0 forks 🎉 (github.com)](https://github.com/aiwandianao/aiwandianao))github首页	
 
 [查看更多](https://github.com/xindoo/)	 
 
@@ -56,12 +51,6 @@
 <td valign="top" width="33%">
 
 ### 我的博客
-
-- [Java21虚拟线程实践](https://blog.csdn.net/xindoo/article/details/133248452)
-- [spring-kafka中ContainerProperties.AckMode详解](https://blog.csdn.net/xindoo/article/details/132652579)
-- [如何在地图上寻找最密集点的位置？](https://blog.csdn.net/xindoo/article/details/132515004)
-- [IO密集型服务提升性能的三种方法](https://blog.csdn.net/xindoo/article/details/131753862)
-- [职场中的基本归因错误和自利归因](https://blog.csdn.net/xindoo/article/details/131883462)
 
 [查看更多](https://xindoo.blog.csdn.net/)
 
