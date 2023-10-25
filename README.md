@@ -43,7 +43,7 @@
 
 ### 开源项目  
 
-- [github profile]([aiwandianao/aiwandianao: sun0225SUN's profile with 0 stars and 0 forks 🎉 (github.com)](https://github.com/aiwandianao/aiwandianao))github首页	
+- [github profile](https://github.com/aiwandianao/aiwandianao)github首页	
 
 [查看更多](https://github.com/xindoo/)	 
 
