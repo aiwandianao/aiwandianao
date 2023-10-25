@@ -1,4 +1,4 @@
-  
+
 	<div align="center">
   <div align="center">
     <a href="https://blog.sunguoqi.com/">
@@ -24,30 +24,25 @@
 <p align="center"> Java开发，也掌握Python相关技术栈  </p>  
 <p align="center"> 擅长Java、Lniux、Redis，对操作系统、网络......也有涉猎</p>  
 
-
-
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/aiwandianao/aiwandianao/assets/images/tuniu.png" />
 
 - [途牛旅游网](https://www.tuniu.com/) &emsp; 📌 2023-07 —— 2023-09
   - 工作岗位：软件开发工程师（实习）
 
 
-<<<<<<< HEAD
-- [github profile](https://github.com/aiwandianao/aiwandianao)github首页	
-=======
 </td>
 </tr>
 
 <table align="center"><tr>
 <td valign="top" width="33%">
->>>>>>> b4c1e82b613cbe5bb150525791542eba39d49fc7
 
 ### 开源项目  
 - [my_github_profile](https://github.com/aiwandianao/aiwandianao)我github首页	
-   
+  
+
 [查看更多](https://github.com/aiwandianao/)	 
 
-	
+
 </td>
 <td valign="top" width="33%">
 
@@ -125,6 +120,6 @@ mindmap
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aiwandianao&theme=dark&hide_border=true" />
 
 
-	
+​	
 </td>
 </tr></table>

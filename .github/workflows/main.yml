@@ -16,14 +16,14 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            profile-snake-contrib/github-contribution-grid-snake.svg
+            profile-snake-contrib/github-contribution-grid-snake-dark.svg?palette=github-dark
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - uses: crazy-max/ghaction-github-pages@v2.1.3
         with:
           target_branch: output
-          build_dir: dist
+          build_dir: profile-snake-contrib
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
