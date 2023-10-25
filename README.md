@@ -1,9 +1,4 @@
-<<<<<<< HEAD
-
-	<div align="center">
-=======
-
->>>>>>> 95b8cb836af82df5af0dd6b0f3891b54256655cc
+  
   <div align="center">
     <a href="https://blog.sunguoqi.com/">
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=你好&center=true&size=27" alt="Typing SVG" />
@@ -27,6 +22,9 @@
 <p align="center"> 5+年技术博主，CSDN笔耕不辍、云计算初级工程师…… </p>  
 <p align="center"> Java开发，也掌握Python相关技术栈  </p>  
 <p align="center"> 擅长Java、Lniux、Redis，对操作系统、网络......也有涉猎</p>  
+
+
+
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/aiwandianao/aiwandianao/assets/images/tuniu.png" />
 
 - [途牛旅游网](https://www.tuniu.com/) &emsp; 📌 2023-07 —— 2023-09
@@ -36,16 +34,15 @@
 </td>
 </tr>
 
-
-
+<table align="center"><tr>
+<td valign="top" width="33%">
 
 ### 开源项目  
 - [my_github_profile](https://github.com/aiwandianao/aiwandianao)我github首页	
-  
-
+   
 [查看更多](https://github.com/aiwandianao/)	 
 
-
+	
 </td>
 <td valign="top" width="33%">
 
@@ -121,10 +118,4 @@ mindmap
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aiwandianao&theme=dark&hide_border=true" />
 
 
-<<<<<<< HEAD
-​	
-</td>
-</tr></table>
-=======
-
->>>>>>> 95b8cb836af82df5af0dd6b0f3891b54256655cc
+	
