@@ -1,24 +1,16 @@
-<div align="center">
-
-  <!-- dynamic typing effect 动态打字效果 -->
-
+  
+	<div align="center">
   <div align="center">
     <a href="https://blog.sunguoqi.com/">
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=你好&center=true&size=27" alt="Typing SVG" />
     </a>
   </div>
 
-  <!-- knock code pictures 敲代码的图片 -->
   <img src="https://cdn.jsdelivr.net/gh/aiwandianao/aiwandianao/assets/images/coding.gif" /><br>
 
-  <!-- profile logo 个人资料徽标 -->
-
   <div align="center">
-    <!-- visitor statistics logo 访问量统计徽标 -->
     <img src="https://komarev.com/ghpvc/?username=aiwandianao&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
   </div>
-
-<!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/aiwandianao/aiwandianao/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
@@ -28,31 +20,44 @@
 
 </div>
 
-# 🙋 Hello
-
-<!-- About me 关于我 -->
-
-
-
 <p align="center"> 5+年技术博主，CSDN笔耕不辍、云计算初级工程师…… </p>  
 <p align="center"> Java开发，也掌握Python相关技术栈  </p>  
 <p align="center"> 擅长Java、Lniux、Redis，对操作系统、网络......也有涉猎</p>  
-</td></tr>
 
 
+
+<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/aiwandianao/aiwandianao/assets/images/tuniu.png" />
+
+- [途牛旅游网](https://www.tuniu.com/) &emsp; 📌 2023-07 —— 2023-09
+  - 工作岗位：软件开发工程师（实习）
+
+
+</td>
+</tr>
+
+<table align="center"><tr>
+<td valign="top" width="33%">
 
 ### 开源项目  
+- [my_github_profile](https://github.com/aiwandianao/aiwandianao)我github首页	
+   
+[查看更多](https://github.com/aiwandianao/)	 
 
-- [github profile]([aiwandianao/aiwandianao: sun0225SUN's profile with 0 stars and 0 forks 🎉 (github.com)](https://github.com/aiwandianao/aiwandianao))github首页	
-
-[查看更多](https://github.com/xindoo/)	 
-
+	
 </td>
 <td valign="top" width="33%">
 
 ### 我的博客
+- [【图灵诸葛】jvm笔记](https://blog.csdn.net/aiwandianao/article/details/133990579)
+- [那些年面试官让我课下学习的知识点](https://blog.csdn.net/aiwandianao/article/details/133754906)
+- [十分钟掌握uml符号！把类图画给面试官看！](https://blog.csdn.net/aiwandianao/article/details/133721364)
+- [重拾git之给算法小抄提个PR](https://blog.csdn.net/aiwandianao/article/details/129911282)
+- [不同系统之间数据对接方式](https://blog.csdn.net/aiwandianao/article/details/128816035)
 
-[查看更多](https://xindoo.blog.csdn.net/)
+[查看更多](https://aiwandianao.blog.csdn.net/)
+
+</td>
+<td valign="top" width="33%">
 
 </td>
 <td valign="top" width="33%">
@@ -108,8 +113,6 @@ mindmap
 
 
 
-
-
 <!-- ########################################## 分割 ########################################## -->
 
 
@@ -118,4 +121,6 @@ mindmap
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aiwandianao&theme=dark&hide_border=true" />
 
 
-
+	
+</td>
+</tr></table>
