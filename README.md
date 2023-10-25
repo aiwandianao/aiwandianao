@@ -1,5 +1,4 @@
   
-	<div align="center">
   <div align="center">
     <a href="https://blog.sunguoqi.com/">
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=你好&center=true&size=27" alt="Typing SVG" />
@@ -32,15 +31,11 @@
   - 工作岗位：软件开发工程师（实习）
 
 
-<<<<<<< HEAD
-- [github profile](https://github.com/aiwandianao/aiwandianao)github首页	
-=======
 </td>
 </tr>
 
 <table align="center"><tr>
 <td valign="top" width="33%">
->>>>>>> b4c1e82b613cbe5bb150525791542eba39d49fc7
 
 ### 开源项目  
 - [my_github_profile](https://github.com/aiwandianao/aiwandianao)我github首页	
@@ -59,9 +54,7 @@
 - [不同系统之间数据对接方式](https://blog.csdn.net/aiwandianao/article/details/128816035)
 
 [查看更多](https://aiwandianao.blog.csdn.net/)
-
-</td>
-<td valign="top" width="33%">
+</tr></table>
 
 </td>
 <td valign="top" width="33%">
@@ -126,5 +119,3 @@ mindmap
 
 
 	
-</td>
-</tr></table>
