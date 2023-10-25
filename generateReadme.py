@@ -10,7 +10,6 @@ headers={'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWeb
 
 def addIntro(f):
 	txt = '''  
-	<div align="center">
   <div align="center">
     <a href="https://blog.sunguoqi.com/">
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=你好&center=true&size=27" alt="Typing SVG" />
@@ -158,10 +157,7 @@ if __name__=='__main__':
 	f.write('\n</td>\n')
 	f.write('<td valign="top" width="33%">\n')
 	addBlogInfo(f)
-	f.write('\n</td>\n')
-	f.write('<td valign="top" width="33%">\n')
-	addOthers(f)
-	f.write('\n</td>\n')
 	f.write('</tr></table>\n')
+	addOthers(f)
 	f.close 
 
