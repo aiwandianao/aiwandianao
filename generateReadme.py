@@ -1,24 +1,27 @@
-<div align="center">
+# -*- coding: utf-8 -*-
+import urllib3
+from lxml import etree
+import html
+import re
 
-  <!-- dynamic typing effect 动态打字效果 -->
+blogUrl = 'https://blog.csdn.net/aiwandianao?type=blog'
 
+headers={'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36'} 
+
+def addIntro(f):
+	txt = '''  
+	<div align="center">
   <div align="center">
     <a href="https://blog.sunguoqi.com/">
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=你好&center=true&size=27" alt="Typing SVG" />
     </a>
   </div>
 
-  <!-- knock code pictures 敲代码的图片 -->
   <img src="https://cdn.jsdelivr.net/gh/aiwandianao/aiwandianao/assets/images/coding.gif" /><br>
 
-  <!-- profile logo 个人资料徽标 -->
-
   <div align="center">
-    <!-- visitor statistics logo 访问量统计徽标 -->
     <img src="https://komarev.com/ghpvc/?username=aiwandianao&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
   </div>
-
-<!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/aiwandianao/aiwandianao/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
@@ -28,43 +31,36 @@
 
 </div>
 
-# 🙋 Hello
-
-<!-- About me 关于我 -->
-
-
-
 <p align="center"> 5+年技术博主，CSDN笔耕不辍、云计算初级工程师…… </p>  
 <p align="center"> Java开发，也掌握Python相关技术栈  </p>  
 <p align="center"> 擅长Java、Lniux、Redis，对操作系统、网络......也有涉猎</p>  
 
-</td></tr>
 
 
+<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/aiwandianao/aiwandianao/assets/images/tuniu.png" />
 
-### 开源项目  
+- [途牛旅游网](https://www.tuniu.com/) &emsp; 📌 2023-07 —— 2023-09
+  - 工作岗位：软件开发工程师（实习）
 
-- [eng-practices-cn](https://github.com/xindoo/eng-practices-cn)谷歌工程实践中文版	
-- [regex](https://github.com/xindoo/regex)Java实现的正则引擎表达式	
-- [redis](https://github.com/xindoo/redis) Redis中文注解版  
-- [slowjson](https://github.com/xindoo/slowjson) 用antlr实现的json解析器  
-- [leetcode](https://github.com/xindoo/leetcode) 我的Leetcode题解   
-
-[查看更多](https://github.com/xindoo/)	 
 
 </td>
-<td valign="top" width="33%">
+</tr>
 
-### 我的博客
+''' 
+	f.write(txt)
 
-- [Java21虚拟线程实践](https://blog.csdn.net/xindoo/article/details/133248452)
-- [spring-kafka中ContainerProperties.AckMode详解](https://blog.csdn.net/xindoo/article/details/132652579)
-- [如何在地图上寻找最密集点的位置？](https://blog.csdn.net/xindoo/article/details/132515004)
-- [IO密集型服务提升性能的三种方法](https://blog.csdn.net/xindoo/article/details/131753862)
-- [职场中的基本归因错误和自利归因](https://blog.csdn.net/xindoo/article/details/131883462)
+def addProjectInfo(f):
+	txt ='''
+### 开源项目  
+- [my_github_profile](https://github.com/aiwandianao/aiwandianao)我github首页	
+   
+[查看更多](https://github.com/aiwandianao/)	 
 
-[查看更多](https://xindoo.blog.csdn.net/)
+	''' 
+	f.write(txt) 
 
+def addOthers(f):
+	txt ='''
 </td>
 <td valign="top" width="33%">
 
@@ -119,8 +115,6 @@ mindmap
 
 
 
-
-
 <!-- ########################################## 分割 ########################################## -->
 
 
@@ -129,4 +123,45 @@ mindmap
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aiwandianao&theme=dark&hide_border=true" />
 
 
+	''' 
+	f.write(txt) 
+
+
+def addBlogInfo(f):  
+	http = urllib3.PoolManager(num_pools=5, headers = headers)
+	resp = http.request('GET', blogUrl)
+	resp_tree = etree.HTML(resp.data.decode("utf-8"))
+	# html_data = resp_tree.xpath(".//div[@class='article-item-box csdn-tracking-statistics']/h4") 
+	html_data = resp_tree.xpath(".//article[@class='blog-list-box']")
+
+ 
+	f.write("\n### 我的博客\n")
+	cnt = 0
+	for i in html_data: 
+		if cnt >= 5:
+			break
+		# title = i.xpath('./a/text()')[1].strip()
+		title = i.xpath("./a//h4/text()")[0].strip()
+		url = i.xpath('./a/@href')[0] 
+		item = '- [%s](%s)\n' % (title, url)
+		f.write(item)
+		cnt = cnt + 1
+	f.write('\n[查看更多](https://aiwandianao.blog.csdn.net/)\n')
+
+
+if __name__=='__main__':
+	f = open('README.md', 'w+')
+	addIntro(f)
+	f.write('<table align="center"><tr>\n')
+	f.write('<td valign="top" width="33%">\n')
+	addProjectInfo(f)
+	f.write('\n</td>\n')
+	f.write('<td valign="top" width="33%">\n')
+	addBlogInfo(f)
+	f.write('\n</td>\n')
+	f.write('<td valign="top" width="33%">\n')
+	addOthers(f)
+	f.write('\n</td>\n')
+	f.write('</tr></table>\n')
+	f.close 
 
