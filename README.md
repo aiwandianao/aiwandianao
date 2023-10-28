@@ -1,6 +1,6 @@
-
-  <div align="center">
-    <a href="https://blog.sunguoqi.com/">
+  
+   <div align="center">
+    <a href="https://blog.csdn.net/aiwandianao?type=blog">
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=你好&center=true&size=27" alt="Typing SVG" />
     </a>
   </div>
@@ -40,10 +40,12 @@
 
 ### 开源项目  
 - [my_github_profile](https://github.com/aiwandianao/aiwandianao)我github首页	
+  
 
 [查看更多](https://github.com/aiwandianao/)	 
 
 </td>
+
 <td valign="top" width="33%">
 
 ### 我的博客
@@ -54,7 +56,15 @@
 - [十分钟掌握uml符号！把类图画给面试官看！](https://blog.csdn.net/aiwandianao/article/details/133721364)
 
 [查看更多](https://aiwandianao.blog.csdn.net/)
-</td></table>
+</table>
+
+</td>
+<td valign="top" width="33%">
+
+
+
+
+</table>
 
 <img width="200%" src="https://cdn.jsdelivr.net/gh/aiwandianao/aiwandianao/assets/images/hr.gif" />
 
@@ -101,12 +111,10 @@ mindmap
 
 
 
-<!-- ########################################## 分割 ########################################## -->
 
 
 
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aiwandianao&theme=dark&hide_border=true" />
 
-
-​	
+	
