@@ -1,4 +1,4 @@
-
+  
    <div align="center">
     <a href="https://blog.csdn.net/aiwandianao?type=blog">
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=你好&center=true&size=27" alt="Typing SVG" />
@@ -12,9 +12,9 @@
   </div>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/aiwandianao/aiwandianao/asserts/github-contribution-grid-snake-dark.svg />
-  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/aiwandianao/aiwandianao/asserts/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/aiwandianao/aiwandianao/asserts/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/aiwandianao/aiwandianao/dir/github-contribution-grid-snake-dark.svg />
+  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/aiwandianao/aiwandianao/dir/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/aiwandianao/aiwandianao/dir/github-contribution-grid-snake.svg" />
 </picture>
 
 </div>
@@ -117,4 +117,4 @@ mindmap
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aiwandianao&theme=dark&hide_border=true" />
 
-​	
+	
