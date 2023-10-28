@@ -10,7 +10,7 @@ headers={'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWeb
 
 def addIntro(f):
 	txt = '''  
-  <div align="center">
+   <div align="center">
     <a href="https://blog.sunguoqi.com/">
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=你好&center=true&size=27" alt="Typing SVG" />
     </a>
@@ -33,17 +33,29 @@ def addIntro(f):
 <p align="center"> 5+年技术博主，CSDN笔耕不辍、云计算初级工程师…… </p>  
 <p align="center"> Java开发，也掌握Python相关技术栈  </p>  
 <p align="center"> 擅长Java、Lniux、Redis，对操作系统、网络......也有涉猎</p>  
+<table align="center">
+<td valign="top" width="33%">
 
-
+### 工作经验  
 
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/aiwandianao/aiwandianao/assets/images/tuniu.png" />
 
 - [途牛旅游网](https://www.tuniu.com/) &emsp; 📌 2023-07 —— 2023-09
   - 工作岗位：软件开发工程师（实习）
 
+</td>
+
+
+<td valign="top" width="33%">
+
+
+### 开源项目  
+- [my_github_profile](https://github.com/aiwandianao/aiwandianao)我github首页	
+  
+
+[查看更多](https://github.com/aiwandianao/)	 
 
 </td>
-</tr>
 
 ''' 
 	f.write(txt)
@@ -68,7 +80,6 @@ def addOthers(f):
 
 </table>
 
-<!-- ########################################## 分割 ########################################## -->
 <img width="200%" src="https://cdn.jsdelivr.net/gh/aiwandianao/aiwandianao/assets/images/hr.gif" />
 
 <div align="center" >
@@ -114,13 +125,11 @@ mindmap
 
 
 
-<!-- ########################################## 分割 ########################################## -->
 
 
 
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aiwandianao&theme=dark&hide_border=true" />
-
 
 	''' 
 	f.write(txt) 
@@ -151,13 +160,9 @@ def addBlogInfo(f):
 if __name__=='__main__':
 	f = open('README.md', 'w+')
 	addIntro(f)
-	f.write('<table align="center"><tr>\n')
-	f.write('<td valign="top" width="33%">\n')
-	addProjectInfo(f)
-	f.write('\n</td>\n')
 	f.write('<td valign="top" width="33%">\n')
 	addBlogInfo(f)
-	f.write('</tr></table>\n')
+	f.write('</table>\n')
 	addOthers(f)
 	f.close 
 
