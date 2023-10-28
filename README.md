@@ -12,9 +12,9 @@
   </div>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/aiwandianao/aiwandianao/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/aiwandianao/aiwandianao/profile-snake-contrib/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/aiwandianao/aiwandianao/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/aiwandianao/aiwandianao/blob/outputs/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/aiwandianao/aiwandianao/tree/outputs/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/aiwandianao/aiwandianao/tree/outputs/github-contribution-grid-snake-dark.svg" />
 </picture>
 
 </div>
@@ -40,7 +40,6 @@
 
 ### 开源项目  
 - [my_github_profile](https://github.com/aiwandianao/aiwandianao)我github首页	
-  
 
 [查看更多](https://github.com/aiwandianao/)	 
 
