@@ -23,7 +23,7 @@ jobs:
 
       - uses: crazy-max/ghaction-github-pages@v2.1.3
         with:
-          target_branch: main
+          target_branch: outputs
           build_dir: profile-snake-contrib
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
