@@ -161,6 +161,5 @@ if __name__=='__main__':
 	f.write('<td valign="top" width="33%">\n')
 	addBlogInfo(f)
 	f.write('</table>\n')
-	addOthers(f)
 	f.close 
 
