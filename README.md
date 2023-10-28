@@ -23,7 +23,6 @@
 <p align="center"> Java开发，也掌握Python相关技术栈  </p>  
 <p align="center"> 擅长Java、Lniux、Redis，对操作系统、网络......也有涉猎</p>  
 <table align="center">
-
 <td valign="top" width="33%">
 
 ### 工作经验  
