@@ -47,11 +47,6 @@
 <td valign="top" width="33%">
 
 ### 我的博客
-- [【黑马程序员】mysql进阶篇笔记](https://blog.csdn.net/aiwandianao/article/details/134054021)
-- [【黑马程序员】mysql基础篇笔记](https://blog.csdn.net/aiwandianao/article/details/134053204)
-- [【图灵诸葛】jvm笔记](https://blog.csdn.net/aiwandianao/article/details/133990579)
-- [那些年面试官让我课下学习的知识点](https://blog.csdn.net/aiwandianao/article/details/133754906)
-- [十分钟掌握uml符号！把类图画给面试官看！](https://blog.csdn.net/aiwandianao/article/details/133721364)
 
 [查看更多](https://aiwandianao.blog.csdn.net/)
 </table>
