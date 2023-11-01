@@ -29,7 +29,8 @@
 
 - [途牛旅游网](https://www.tuniu.com/) &emsp; 📌 2023-07 —— 2023-09
   - 工作岗位：软件开发工程师（实习）
-
+- [网易](https://research.netease.com/about-us) &emsp; 📌 2023-11 —— 至今
+  - 工作岗位：Java工程师（实习）
 </td>
 
 
@@ -47,6 +48,72 @@
 <td valign="top" width="33%">
 
 ### 我的博客
+- [【黑马程序员】mysql进阶再进阶篇笔记](https://blog.csdn.net/aiwandianao/article/details/134094371)
+- [GPT与创作：革命性的合作还是失业的噩梦？](https://blog.csdn.net/aiwandianao/article/details/134094259)
+- [【黑马程序员】mysql进阶篇笔记](https://blog.csdn.net/aiwandianao/article/details/134054021)
+- [【黑马程序员】mysql基础篇笔记](https://blog.csdn.net/aiwandianao/article/details/134053204)
+- [【图灵诸葛】jvm笔记](https://blog.csdn.net/aiwandianao/article/details/133990579)
 
 [查看更多](https://aiwandianao.blog.csdn.net/)
 </table>
+
+</td>
+<td valign="top" width="33%">
+
+
+
+
+</table>
+
+<img width="200%" src="https://cdn.jsdelivr.net/gh/aiwandianao/aiwandianao/assets/images/hr.gif" />
+
+<div align="center" >
+
+```mermaid
+mindmap
+  root((60分))
+    编程
+      Java开发
+      人工智能
+    旅行
+      北京
+      莫斯科
+      徐州
+      南京
+      苏州
+      乌鲁木齐
+      杭州
+      上海
+      丽水
+      温州
+      洛阳
+      郑州    
+    阅读
+      计算机技术
+      人物传记
+      个人成长
+      社会文化
+      玄幻修真
+      
+```
+
+
+
+<!-- programming tool icon 编程工具图标 -->
+<img src="https://skillicons.dev/icons?i=idea,git,postman,maven,spring,redis,rabbitmq,mysql,mongodb,nginx,tensorflow,pytorch,python,matlab,cpp" /><br>
+
+
+
+<!-- GitHub 数据统计 -->
+<img align="" height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=aiwandianao&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
+<br>
+
+
+
+
+
+
+
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aiwandianao&theme=dark&hide_border=true" />
+
+	
