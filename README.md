@@ -48,11 +48,11 @@
 <td valign="top" width="33%">
 
 ### 我的博客
+- [【chatgpt】让gpt带你掌握设计模式](https://blog.csdn.net/aiwandianao/article/details/134224561)
+- [【gpt redis】原理篇](https://blog.csdn.net/aiwandianao/article/details/134224173)
 - [【黑马程序员】mysql进阶再进阶篇笔记](https://blog.csdn.net/aiwandianao/article/details/134094371)
 - [GPT与创作：革命性的合作还是失业的噩梦？](https://blog.csdn.net/aiwandianao/article/details/134094259)
 - [【黑马程序员】mysql进阶篇笔记](https://blog.csdn.net/aiwandianao/article/details/134054021)
-- [【黑马程序员】mysql基础篇笔记](https://blog.csdn.net/aiwandianao/article/details/134053204)
-- [【图灵诸葛】jvm笔记](https://blog.csdn.net/aiwandianao/article/details/133990579)
 
 [查看更多](https://aiwandianao.blog.csdn.net/)
 </table>
