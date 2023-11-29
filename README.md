@@ -48,11 +48,6 @@
 <td valign="top" width="33%">
 
 ### 我的博客
-- [hive总结](https://blog.csdn.net/aiwandianao/article/details/134673635)
-- [和gpt聊天，学一手hdfs](https://blog.csdn.net/aiwandianao/article/details/134672362)
-- [Spring Boot 3.2 发行说明（机翻）](https://blog.csdn.net/aiwandianao/article/details/134663633)
-- [工具推荐 sejda pdf一个可以将pdf转为txt的工具](https://blog.csdn.net/aiwandianao/article/details/134663520)
-- [运行yudao前后端](https://blog.csdn.net/aiwandianao/article/details/134624807)
 
 [查看更多](https://aiwandianao.blog.csdn.net/)
 </table>
