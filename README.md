@@ -48,6 +48,11 @@
 <td valign="top" width="33%">
 
 ### 我的博客
+- [virtualbox ubuntu 增强功能 安装全流程](https://blog.csdn.net/aiwandianao/article/details/134717163)
+- [idea doc 注释 插件及使用](https://blog.csdn.net/aiwandianao/article/details/134689444)
+- [hive总结](https://blog.csdn.net/aiwandianao/article/details/134673635)
+- [和gpt聊天，学一手hdfs](https://blog.csdn.net/aiwandianao/article/details/134672362)
+- [Spring Boot 3.2 发行说明（机翻）](https://blog.csdn.net/aiwandianao/article/details/134663633)
 
 [查看更多](https://aiwandianao.blog.csdn.net/)
 </table>
