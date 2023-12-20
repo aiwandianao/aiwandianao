@@ -1,4 +1,4 @@
-  
+
    <div align="center">
     <a href="https://blog.csdn.net/aiwandianao?type=blog">
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=你好&center=true&size=27" alt="Typing SVG" />
@@ -54,7 +54,7 @@
 - [idea doc 注释 插件及使用](https://blog.csdn.net/aiwandianao/article/details/134689444)
 - [hive总结](https://blog.csdn.net/aiwandianao/article/details/134673635)
 
-[查看更多](https://aiwandianao.blog.csdn.net/)
+[查看更多](https://blog.csdn.net/aiwandianao?type=blog)
 </table>
 
 </td>
@@ -116,4 +116,4 @@ mindmap
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aiwandianao&theme=dark&hide_border=true" />
 
-	
+​	
