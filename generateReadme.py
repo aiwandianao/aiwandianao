@@ -153,7 +153,7 @@ def addBlogInfo(f):
 		item = '- [%s](%s)\n' % (title, url)
 		f.write(item)
 		cnt = cnt + 1
-	f.write('\n[查看更多](https://aiwandianao.blog.csdn.net/)\n')
+	f.write('\n[查看更多](https://blog.csdn.net/aiwandianao?type=blog)\n')
 
 
 if __name__=='__main__':
