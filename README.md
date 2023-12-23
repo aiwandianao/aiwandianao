@@ -48,11 +48,6 @@
 <td valign="top" width="33%">
 
 ### 我的博客
-- [alibaba fastjson GET List传参 和 接收解析](https://blog.csdn.net/aiwandianao/article/details/134988902)
-- [如何避免编写无法维护的代码，当然你也可以写防御性代码](https://blog.csdn.net/aiwandianao/article/details/134944023)
-- [virtualbox ubuntu 增强功能 安装全流程](https://blog.csdn.net/aiwandianao/article/details/134717163)
-- [idea doc 注释 插件及使用](https://blog.csdn.net/aiwandianao/article/details/134689444)
-- [hive总结](https://blog.csdn.net/aiwandianao/article/details/134673635)
 
 [查看更多](https://blog.csdn.net/aiwandianao?type=blog)
 </table>
