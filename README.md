@@ -48,11 +48,11 @@
 <td valign="top" width="33%">
 
 ### 我的博客
+- [【Spring注解探秘】高效开发技巧与实战案例解析](https://blog.csdn.net/aiwandianao/article/details/135912427)
 - [掌握Quartz任务调度：从入门到实战，构建高效的企业级应用](https://blog.csdn.net/aiwandianao/article/details/135853048)
 - [【实战记录】 vagrant+virtualbox+docker 轻松用虚拟机集成组件](https://blog.csdn.net/aiwandianao/article/details/135549109)
 - [【响应式编程】前置知识和相关技术的总结](https://blog.csdn.net/aiwandianao/article/details/135498089)
 - [【分布式】2PC和3PC个人理解](https://blog.csdn.net/aiwandianao/article/details/135483901)
-- [alibaba fastjson GET List传参 和 接收解析](https://blog.csdn.net/aiwandianao/article/details/134988902)
 
 [查看更多](https://blog.csdn.net/aiwandianao?type=blog)
 </table>
