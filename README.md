@@ -27,10 +27,10 @@
 
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/aiwandianao/aiwandianao/assets/images/tuniu.png" />
 
-- [途牛旅游网](https://www.tuniu.com/) &emsp; 📌 2023-07 —— 2023-09
-  - 工作岗位：软件开发工程师（实习）
-- [网易](https://research.netease.com/about-us) &emsp; 📌 2023-11 —— 至今
-  - 工作岗位：Java工程师（实习）
+- [途牛旅游网-机票部门](https://www.tuniu.com/) &emsp; 📌 2023-07 —— 2023-09
+  - 工作岗位：Java后端工程师（实习）
+- [网易-有数](https://research.netease.com/about-us) &emsp; 📌 2023-11 —— 2024-02
+  - 工作岗位：Java后端工程师（实习）
 </td>
 
 
