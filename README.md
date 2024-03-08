@@ -48,11 +48,11 @@
 <td valign="top" width="33%">
 
 ### 我的博客
-- [【数据中台】 好文](https://blog.csdn.net/aiwandianao/article/details/135953095)
-- [【Java】自定义注解：不仅仅是代码的装饰品](https://blog.csdn.net/aiwandianao/article/details/135950198)
-- [【Spring Cloud】 Feign 客户端的使用与配置](https://blog.csdn.net/aiwandianao/article/details/135949654)
-- [【Spring框架】@Cacheable注解：缓存最佳实践](https://blog.csdn.net/aiwandianao/article/details/135948595)
-- [【Spring注解探秘】高效开发技巧与实战案例解析](https://blog.csdn.net/aiwandianao/article/details/135912427)
+- [如何快速解决leetcode 热题100](https://blog.csdn.net/aiwandianao/article/details/136571727)
+- [【方法论】缓解焦虑](https://blog.csdn.net/aiwandianao/article/details/136571678)
+- [【方法论】快速撰写文章](https://blog.csdn.net/aiwandianao/article/details/136571639)
+- [如何应对不想工作的情况](https://blog.csdn.net/aiwandianao/article/details/136571608)
+- [【国内可用的ai工具分享】智谱清言 和 Kimi chat](https://blog.csdn.net/aiwandianao/article/details/136571585)
 
 [查看更多](https://blog.csdn.net/aiwandianao?type=blog)
 </table>
