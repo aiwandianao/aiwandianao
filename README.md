@@ -48,11 +48,11 @@
 <td valign="top" width="33%">
 
 ### 我的博客
+- [【全自动AI程序员】Devin，程序员的好朋友还是抢饭碗的仇人？](https://blog.csdn.net/aiwandianao/article/details/136699502)
 - [如何快速解决leetcode 热题100](https://blog.csdn.net/aiwandianao/article/details/136571727)
 - [【方法论】缓解焦虑](https://blog.csdn.net/aiwandianao/article/details/136571678)
 - [【方法论】快速撰写文章](https://blog.csdn.net/aiwandianao/article/details/136571639)
 - [如何应对不想工作的情况](https://blog.csdn.net/aiwandianao/article/details/136571608)
-- [【国内可用的ai工具分享】智谱清言 和 Kimi chat](https://blog.csdn.net/aiwandianao/article/details/136571585)
 
 [查看更多](https://blog.csdn.net/aiwandianao?type=blog)
 </table>
