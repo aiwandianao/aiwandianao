@@ -48,11 +48,11 @@
 <td valign="top" width="33%">
 
 ### 我的博客
+- [LeetCode 热题100专题解析：哈希与双指针](https://blog.csdn.net/aiwandianao/article/details/136793273)
+- [Netty与RPC技术全解析：从入门到实战演练](https://blog.csdn.net/aiwandianao/article/details/136793160)
+- [论文撰写新利器：AI工具大集合，助你高效完成学术创作](https://blog.csdn.net/aiwandianao/article/details/136792990)
+- [《Hello Algo》：动画图解引领的数据结构与算法学习之旅](https://blog.csdn.net/aiwandianao/article/details/136792784)
 - [【全自动AI程序员】Devin，程序员的好朋友还是抢饭碗的仇人？](https://blog.csdn.net/aiwandianao/article/details/136699502)
-- [如何快速解决leetcode 热题100](https://blog.csdn.net/aiwandianao/article/details/136571727)
-- [【方法论】缓解焦虑](https://blog.csdn.net/aiwandianao/article/details/136571678)
-- [【方法论】快速撰写文章](https://blog.csdn.net/aiwandianao/article/details/136571639)
-- [如何应对不想工作的情况](https://blog.csdn.net/aiwandianao/article/details/136571608)
 
 [查看更多](https://blog.csdn.net/aiwandianao?type=blog)
 </table>
