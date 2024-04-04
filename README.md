@@ -48,11 +48,6 @@
 <td valign="top" width="33%">
 
 ### 我的博客
-- [Java面试准备：深入理解与实战技巧](https://blog.csdn.net/aiwandianao/article/details/136917328)
-- [从Java到Go：理解转变的必要性与快速入门Go语言](https://blog.csdn.net/aiwandianao/article/details/136892205)
-- [社交媒体光环背后：如何理智面对他人的成功与自我成长的平衡艺术](https://blog.csdn.net/aiwandianao/article/details/136892075)
-- [探索未知：AI时代基础知识学习的新视角](https://blog.csdn.net/aiwandianao/article/details/136891955)
-- [分享一段话](https://blog.csdn.net/aiwandianao/article/details/136863090)
 
 [查看更多](https://blog.csdn.net/aiwandianao?type=blog)
 </table>
