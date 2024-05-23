@@ -48,6 +48,11 @@
 <td valign="top" width="33%">
 
 ### 我的博客
+- [基于windows通过kind部署轻量级便携式k8s集群](https://blog.csdn.net/aiwandianao/article/details/139055673)
+- [学习kong官方文档](https://blog.csdn.net/aiwandianao/article/details/138998239)
+- [抽空学学go](https://blog.csdn.net/aiwandianao/article/details/138731084)
+- [快速上手prometheaus grafana 监控](https://blog.csdn.net/aiwandianao/article/details/138682491)
+- [结合kimi chat的爬虫实战思路](https://blog.csdn.net/aiwandianao/article/details/138520437)
 
 [查看更多](https://blog.csdn.net/aiwandianao?type=blog)
 </table>
