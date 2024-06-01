@@ -48,11 +48,11 @@
 <td valign="top" width="33%">
 
 ### 我的博客
+- [向量数据库](https://blog.csdn.net/aiwandianao/article/details/139375816)
 - [SOFA-RPC学习记录](https://blog.csdn.net/aiwandianao/article/details/139366381)
 - [【开源】参与开源项目：从修复Typo开始](https://blog.csdn.net/aiwandianao/article/details/139323412)
 - [【SOFARPC框架的设计和实现】笔记记录](https://blog.csdn.net/aiwandianao/article/details/139301602)
 - [【MyBatis-Plus 源码分析】核心组件、工作流程、SQL执行过程、源码分析](https://blog.csdn.net/aiwandianao/article/details/139298512)
-- [基于windows通过kind部署轻量级便携式k8s集群](https://blog.csdn.net/aiwandianao/article/details/139055673)
 
 [查看更多](https://blog.csdn.net/aiwandianao?type=blog)
 </table>
