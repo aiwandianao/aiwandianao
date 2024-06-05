@@ -48,11 +48,11 @@
 <td valign="top" width="33%">
 
 ### 我的博客
+- [【方法论】钟澄国家杰青 鲸吞法 写文献综述、大论文框架必备](https://blog.csdn.net/aiwandianao/article/details/139468413)
+- [速通数据挖掘课程](https://blog.csdn.net/aiwandianao/article/details/139468332)
+- [【归档】当年为尝试算法比赛进行的学习](https://blog.csdn.net/aiwandianao/article/details/139467334)
+- [【归档】git使用](https://blog.csdn.net/aiwandianao/article/details/139467155)
 - [向量数据库](https://blog.csdn.net/aiwandianao/article/details/139375816)
-- [SOFA-RPC学习记录](https://blog.csdn.net/aiwandianao/article/details/139366381)
-- [【开源】参与开源项目：从修复Typo开始](https://blog.csdn.net/aiwandianao/article/details/139323412)
-- [【SOFARPC框架的设计和实现】笔记记录](https://blog.csdn.net/aiwandianao/article/details/139301602)
-- [【MyBatis-Plus 源码分析】核心组件、工作流程、SQL执行过程、源码分析](https://blog.csdn.net/aiwandianao/article/details/139298512)
 
 [查看更多](https://blog.csdn.net/aiwandianao?type=blog)
 </table>
