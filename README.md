@@ -48,11 +48,11 @@
 <td valign="top" width="33%">
 
 ### 我的博客
+- [【值得一看的新特性】JDK21](https://blog.csdn.net/aiwandianao/article/details/139563806)
 - [【学永远不嫌晚】Linux操作系统,linux教程,动力节点linux,老杜linux](https://blog.csdn.net/aiwandianao/article/details/139554693)
 - [硕士课程 可穿戴设备之作业一](https://blog.csdn.net/aiwandianao/article/details/139478652)
 - [硕士课程可穿戴设备之第二次作业](https://blog.csdn.net/aiwandianao/article/details/139477934)
 - [硕士课程可穿戴作业归档之三](https://blog.csdn.net/aiwandianao/article/details/139477484)
-- [【方法论】钟澄国家杰青 鲸吞法 写文献综述、大论文框架必备](https://blog.csdn.net/aiwandianao/article/details/139468413)
 
 [查看更多](https://blog.csdn.net/aiwandianao?type=blog)
 </table>
