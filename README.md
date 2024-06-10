@@ -48,11 +48,11 @@
 <td valign="top" width="33%">
 
 ### 我的博客
+- [【只是查漏补缺】关于动力节点2024版java新课程](https://blog.csdn.net/aiwandianao/article/details/139564138)
+- [【面试题】如何破坏 JVM的双亲委派机制](https://blog.csdn.net/aiwandianao/article/details/139576987)
 - [【值得一看的新特性】JDK21](https://blog.csdn.net/aiwandianao/article/details/139563806)
 - [【学永远不嫌晚】Linux操作系统,linux教程,动力节点linux,老杜linux](https://blog.csdn.net/aiwandianao/article/details/139554693)
 - [硕士课程 可穿戴设备之作业一](https://blog.csdn.net/aiwandianao/article/details/139478652)
-- [硕士课程可穿戴设备之第二次作业](https://blog.csdn.net/aiwandianao/article/details/139477934)
-- [硕士课程可穿戴作业归档之三](https://blog.csdn.net/aiwandianao/article/details/139477484)
 
 [查看更多](https://blog.csdn.net/aiwandianao?type=blog)
 </table>
