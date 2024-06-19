@@ -48,11 +48,11 @@
 <td valign="top" width="33%">
 
 ### 我的博客
-- [【活动文章】通用大模型VS垂直大模型，你更青睐哪一方](https://blog.csdn.net/aiwandianao/article/details/139631234)
-- [【只是查漏补缺】关于动力节点2024版java新课程](https://blog.csdn.net/aiwandianao/article/details/139564138)
-- [【面试题】如何破坏 JVM的双亲委派机制](https://blog.csdn.net/aiwandianao/article/details/139576987)
-- [【值得一看的新特性】JDK21](https://blog.csdn.net/aiwandianao/article/details/139563806)
-- [【学永远不嫌晚】Linux操作系统,linux教程,动力节点linux,老杜linux](https://blog.csdn.net/aiwandianao/article/details/139554693)
+- [【归档】工作流审批初体验](https://blog.csdn.net/aiwandianao/article/details/139799218)
+- [【之前硕士课程作业的归档】代码跑通流程](https://blog.csdn.net/aiwandianao/article/details/139799092)
+- [【归档】maven的使用](https://blog.csdn.net/aiwandianao/article/details/139798268)
+- [potplayer音画不同步](https://blog.csdn.net/aiwandianao/article/details/139798171)
+- [写一段关于力扣提交自动获取以往代码的油猴脚本](https://blog.csdn.net/aiwandianao/article/details/139798122)
 
 [查看更多](https://blog.csdn.net/aiwandianao?type=blog)
 </table>
