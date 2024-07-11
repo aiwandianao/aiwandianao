@@ -48,11 +48,11 @@
 <td valign="top" width="33%">
 
 ### 我的博客
+- [【SaaS PaaS IaaS BaaS FaaS】一个具体的例子来理解这些云计算服务模型](https://blog.csdn.net/aiwandianao/article/details/140360281)
+- [【工作相关学习】管理会计](https://blog.csdn.net/aiwandianao/article/details/140360211)
 - [【归档】工作流审批初体验](https://blog.csdn.net/aiwandianao/article/details/139799218)
 - [【之前硕士课程作业的归档】代码跑通流程](https://blog.csdn.net/aiwandianao/article/details/139799092)
 - [【归档】maven的使用](https://blog.csdn.net/aiwandianao/article/details/139798268)
-- [potplayer音画不同步](https://blog.csdn.net/aiwandianao/article/details/139798171)
-- [写一段关于力扣提交自动获取以往代码的油猴脚本](https://blog.csdn.net/aiwandianao/article/details/139798122)
 
 [查看更多](https://blog.csdn.net/aiwandianao?type=blog)
 </table>
