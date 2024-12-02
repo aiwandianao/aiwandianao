@@ -48,11 +48,11 @@
 <td valign="top" width="33%">
 
 ### 我的博客
-- [【读书】原则](https://blog.csdn.net/aiwandianao/article/details/142317975)
-- [管理会计 产品成本](https://blog.csdn.net/aiwandianao/article/details/141184394)
-- [Java中多线程环境下静态变量初始化的线程安全问题及解决方案](https://blog.csdn.net/aiwandianao/article/details/141034578)
-- [【显示器现实问题】](https://blog.csdn.net/aiwandianao/article/details/140503159)
-- [【SaaS PaaS IaaS BaaS FaaS】一个具体的例子来理解这些云计算服务模型](https://blog.csdn.net/aiwandianao/article/details/140360281)
+- [Java小技巧：不仅仅是 break，还有更多](https://blog.csdn.net/aiwandianao/article/details/143276844)
+- [JavaScript 中 let 和 var 的区别](https://blog.csdn.net/aiwandianao/article/details/143276762)
+- [CSS中的!important和空格选择器深入解析](https://blog.csdn.net/aiwandianao/article/details/143276754)
+- [git合并上传小技巧](https://blog.csdn.net/aiwandianao/article/details/143276548)
+- [【小技巧】可以打印断点处的对象实体信息](https://blog.csdn.net/aiwandianao/article/details/143104699)
 
 [查看更多](https://blog.csdn.net/aiwandianao?type=blog)
 </table>
