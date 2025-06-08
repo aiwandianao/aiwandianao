@@ -15,124 +15,26 @@ def addIntro(f):
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=你好&center=true&size=27" alt="Typing SVG" />
     </a>
   </div>
-	<p align="center">
-	  <img src="https://cdn.jsdelivr.net/gh/aiwandianao/aiwandianao/assets/images/coding.gif" /><br>
-	</p>
-  <div align="center">
-    <img src="https://komarev.com/ghpvc/?username=aiwandianao&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
-  </div>
-
 <p align="center">
-  <img src="https://github.com/aiwandianao/aiwandianao/blob/output/github-contribution-grid-snake.svg"/>
-</p>	
-
-</div>
-
-<p align="center"> 5+年技术博主，CSDN笔耕不辍、云计算初级工程师…… </p>  
-<p align="center"> Java开发，也掌握Python相关技术栈  </p>  
-<p align="center"> 擅长Java、Lniux、Redis，对操作系统、网络......也有涉猎</p>  
-<table align="center">
-<td valign="top" width="33%">
-
-### 工作经验  
-
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/aiwandianao/aiwandianao/assets/images/tuniu.png" />
-
-- [途牛旅游网-机票部门](https://www.tuniu.com/) &emsp; 📌 2023-07 —— 2023-09
-  - 工作岗位：Java后端工程师（实习）
-- [网易-有数](https://research.netease.com/about-us) &emsp; 📌 2023-11 —— 2024-02
-  - 工作岗位：Java后端工程师（实习）
-</td>
-
-
-<td valign="top" width="33%">
-
-
-### 开源项目  
-- [my_github_profile](https://github.com/aiwandianao/aiwandianao)我github首页	
-  
-
-[查看更多](https://github.com/aiwandianao/)	 
-
-</td>
-
+  资深Java开发工程师 | 技术博主
+</p>
+<p align="center">
+  专注于后端开发与AI应用领域
+</p>
 ''' 
 	f.write(txt)
 
-def addProjectInfo(f):
-	txt ='''
-### 开源项目  
-- [my_github_profile](https://github.com/aiwandianao/aiwandianao)我github首页	
-   
-[查看更多](https://github.com/aiwandianao/)	 
-
-	''' 
-	f.write(txt) 
-
-def addOthers(f):
-	txt ='''
-</td>
-<td valign="top" width="33%">
-
-
-
-
-</table>
-
-<img width="200%" src="https://cdn.jsdelivr.net/gh/aiwandianao/aiwandianao/assets/images/hr.gif" />
-
-<div align="center" >
-
-```mermaid
-mindmap
-  root((60分))
-    编程
-      Java开发
-      人工智能
-    旅行
-      北京
-      莫斯科
-      徐州
-      南京
-      苏州
-      乌鲁木齐
-      杭州
-      上海
-      丽水
-      温州
-      洛阳
-      郑州    
-    阅读
-      计算机技术
-      人物传记
-      个人成长
-      社会文化
-      玄幻修真
-      
-```
-
-
-
-<!-- programming tool icon 编程工具图标 -->
-<img src="https://skillicons.dev/icons?i=idea,git,postman,maven,spring,redis,rabbitmq,mysql,mongodb,nginx,tensorflow,pytorch,python,matlab,cpp" /><br>
-
-
-
-<!-- GitHub 数据统计 -->
-<img align="" height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=aiwandianao&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
-<br>
-
-
-
-
-
-
-
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aiwandianao&theme=dark&hide_border=true" />
-
-	''' 
-	f.write(txt) 
-
+def addProfessionalAndAcademicInfo(f):
+    txt = '''
+<p align="center">
+  🎓 <b>学历背景</b>: 东南大学 & Monash University | 电子信息硕士
+</p>
+<p align="center">
+  💻 <b>职业经历</b>: 具备扎实的后端开发经验，专注于构建高并发、高可用系统。
+  在公司内部及网络上多次进行 AI 编码、AI 提示工程、AI Agent 工作流相关培训，目前主导部门 AI 应用相关工作。
+</p>
+'''
+    f.write(txt)
 
 def addBlogInfo(f):  
 	http = urllib3.PoolManager(num_pools=5, headers = headers)
@@ -155,13 +57,34 @@ def addBlogInfo(f):
 		cnt = cnt + 1
 	f.write('\n[查看更多](https://blog.csdn.net/aiwandianao?type=blog)\n')
 
+def addOpenSourceContribution(f):
+	txt = '''
+### 🔧 开源贡献
+#### 1. [agentUniverse](https://github.com/agentuniverse-ai/agentUniverse)
+- \**贡献内容\**：
+为 doc_processor 模块及相关文件补充方法注释，明确参数说明和功能逻辑。（PR #340）  
+- \**技术价值\**：完善基础文档。
+	'''
+	f.write(txt)
+
+def addOthers(f):
+	txt ='''
+<div align="center" >
+
+<!-- programming tool icon 编程工具图标 -->
+<img src="https://skillicons.dev/icons?i=idea,git,postman,maven,spring,redis,rabbitmq,mysql,mongodb,nginx,tensorflow,pytorch,python,matlab,cpp" /><br>
+
+</div>
+''' 
+	f.write(txt) 
+
 
 if __name__=='__main__':
 	f = open('README.md', 'w+')
 	addIntro(f)
-	f.write('<td valign="top" width="33%">\n')
+	addProfessionalAndAcademicInfo(f)
 	addBlogInfo(f)
-	f.write('</table>\n')
+	addOpenSourceContribution(f)
 	addOthers(f)
 	f.close 
 
