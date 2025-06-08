@@ -25,13 +25,12 @@
 
 ### 🔧 开源贡献
 #### 1. [agentUniverse](https://github.com/agentuniverse-ai/agentUniverse)
-- \**贡献内容\**：
+- \*贡献内容\*：
 为 doc_processor 模块及相关文件补充方法注释，明确参数说明和功能逻辑。（PR #340）  
-- \**技术价值\**：完善基础文档。
+- \*技术价值\*：完善基础文档。
 	
 <div align="center" >
 
 <!-- programming tool icon 编程工具图标 -->
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,openai,langchain,jupyter,docker,git,idea" /><br>
 
 </div>
