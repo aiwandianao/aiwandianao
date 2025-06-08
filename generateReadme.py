@@ -10,11 +10,6 @@ headers={'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWeb
 
 def addIntro(f):
 	txt = '''  
-   <div align="center">
-    <a href="https://blog.csdn.net/aiwandianao?type=blog">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=你好&center=true&size=27" alt="Typing SVG" />
-    </a>
-  </div>
 <p align="center">
   资深Java开发工程师 | 技术博主
 </p>
@@ -72,7 +67,7 @@ def addOthers(f):
 <div align="center" >
 
 <!-- programming tool icon 编程工具图标 -->
-<img src="https://skillicons.dev/icons?i=idea,git,postman,maven,spring,redis,rabbitmq,mysql,mongodb,nginx,tensorflow,pytorch,python,matlab,cpp" /><br>
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,openai,langchain,jupyter,docker,git,idea" /><br>
 
 </div>
 ''' 
