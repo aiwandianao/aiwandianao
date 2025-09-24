@@ -15,6 +15,11 @@
 </p>
 
 ### 我的博客
+- [主流开源LLM架构对比与突破·](https://blog.csdn.net/aiwandianao/article/details/149540967)
+- [【redis】基于工业界技术分享的内容总结](https://blog.csdn.net/aiwandianao/article/details/149857589)
+- [快速定位sql索引未使用上的问题](https://blog.csdn.net/aiwandianao/article/details/144659975)
+- [如何根据一系列提交文件，匹配对应的git提交记录？用ai](https://blog.csdn.net/aiwandianao/article/details/144659385)
+- [Java小技巧：不仅仅是 break，还有更多](https://blog.csdn.net/aiwandianao/article/details/143276844)
 
 [查看更多](https://blog.csdn.net/aiwandianao?type=blog)
 
