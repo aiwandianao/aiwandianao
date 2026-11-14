@@ -15,6 +15,11 @@
 </p>
 
 ### 我的博客
+- [基于 TinyLlama-1.1B 模型的 LoRA 微调实战：2024 奥运会男足冠军知识更新](https://blog.csdn.net/aiwandianao/article/details/155277953)
+- [主流开源LLM架构对比与突破·](https://blog.csdn.net/aiwandianao/article/details/149540967)
+- [【redis】基于工业界技术分享的内容总结](https://blog.csdn.net/aiwandianao/article/details/149857589)
+- [快速定位sql索引未使用上的问题](https://blog.csdn.net/aiwandianao/article/details/144659975)
+- [如何根据一系列提交文件，匹配对应的git提交记录？用ai](https://blog.csdn.net/aiwandianao/article/details/144659385)
 
 [查看更多](https://blog.csdn.net/aiwandianao?type=blog)
 
